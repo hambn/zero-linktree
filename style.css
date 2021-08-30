@@ -3,8 +3,8 @@
 :root {
     --font:'Cinzel', serif;
     --font-2: 'Pattaya', sans-serif;
-    --bgColor: #000000;
-    --accentColor: #ffffff;
+    --bgColor: #ffffff;
+    --accentColor: #05072b;
     --largeDeviceBg: url("https://images.unsplash.com/photo-1598063183638-4ffe7c5f0f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
     --smallDeviceBg: url("https://wallpapercave.com/wp/wp8870322.gif");
     --grad:linear-gradient(rgb(10, 10, 10), rgb(53, 41, 46), rgb(162, 118, 131), rgb(205, 155, 164), rgb(250, 195, 197));
