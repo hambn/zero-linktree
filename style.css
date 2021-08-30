@@ -32,7 +32,7 @@ body {
     padding: 15px;
     display: grid;
     text-decoration: none;
-    color: var(--accentColor);
+    color: var(--bgColor);
     margin: auto;
     text-align: center;
     font-family: var(--font);
